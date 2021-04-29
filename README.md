@@ -1,1 +1,1 @@
-# Move-Temporal-Table-from-One-DB-to-Another
+#Move Temporal Table from One Database to Another
